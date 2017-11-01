@@ -12,3 +12,8 @@ print("\t||List：列表，类型java里的List")
 print("\t||Tuple：元组，类型java里的枚举")
 print("\t||Dictionary：字点，类似java里的map")
 
+
+a = 100 
+print("a的数据类型是%s"%(type(a)))
+
+
