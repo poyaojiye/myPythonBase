@@ -25,4 +25,17 @@ else:
 	print("pass在python中可以用作临时占位，保证代码的完整性")
 
 
+print("")
+print("========================")
 print("if可以嵌套！！！！")
+print("在python布尔运算中，如果对象不为空则True,为空则为False;数字0为False，非0返回True")
+print("bool([])")
+print("bool({})")
+print("bool(\"\")")
+print("bool(0)")
+print("以上均返回False")
+print("bool([1])")
+print("bool(345)")
+print("以上均返回True")
+print("在条件语句中按以上规则判断执行")
+
